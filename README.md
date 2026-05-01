@@ -33,18 +33,15 @@
 </p>
 
 ## GitHub Performance
-
 <p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamarthPD-21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamarthPD-21&theme=tokyonight" alt="Top languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SamarthPD-21&show_icons=true&hide_border=true&theme=radical"/>
 </p>
-
 <p align="center">
-	<a href="https://git.io/streak-stats">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=SamarthPD-21&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-	</a>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SamarthPD-21&theme=radical&hide_border=true" />
 </p>
-
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SamarthPD-21&layout=compact&theme=radical&hide_border=true"/>
+</p>
 ## Contribution Activity
 
 <p align="center">
