@@ -52,8 +52,6 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **[Veblyss Global](https://veblyssglobal.com)** | Production website for an Indian export business serving international customers across multiple product categories. | Next.js, TypeScript, Tailwind CSS |
-| **[Personafy](https://github.com/SamarthPD-21/Personafy)** · [Live](https://personafy-nine.vercel.app/) | Persona-driven AI chat app with per-persona threads, streaming output and an animated UI. | Next.js, Tailwind v4, Framer Motion |
-| **[GFI Finder](https://github.com/SamarthPD-21/GFI_Finder)** | Finds active repositories and beginner-friendly issues, ranked by activity and contributor signals. | Next.js, GitHub REST API |
 
 <p align="center"><i>More low-level design work: <a href="https://github.com/SamarthPD-21/Design_Parking">Parking Lot</a> · <a href="https://github.com/SamarthPD-21/Design_Elevator">Elevator</a> · <a href="https://github.com/SamarthPD-21/Design_BMS">BookMyShow</a> · <a href="https://github.com/SamarthPD-21/Design_SL">Snakes & Ladders</a> · ML research: <a href="https://github.com/SamarthPD-21/Attention_count_head_study">Attention-head ablation on ViT/CIFAR-10</a></i></p>
 
