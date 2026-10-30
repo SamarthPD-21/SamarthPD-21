@@ -70,12 +70,13 @@
 
 ## 📊 GitHub Stats
 
+<!-- Cards are generated daily by .github/workflows/stats.yml, so they don't depend on a public API that can go down. -->
 <p align="center">
-	<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=SamarthPD-21&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats" />
-	<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SamarthPD-21&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+	<img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+	<img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 <p align="center">
-	<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SamarthPD-21&theme=radical&hide_border=true" alt="GitHub streak" />
+	<img src="./profile/streak.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
