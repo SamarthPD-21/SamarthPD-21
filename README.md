@@ -70,13 +70,13 @@
 
 ## 📊 GitHub Stats
 
-<!-- Cards are generated daily by .github/workflows/stats.yml, so they don't depend on a public API that can go down. -->
+<!-- Cards are regenerated hourly by .github/workflows/stats.yml and published to the stats branch. -->
 <p align="center">
-	<img height="170" src="./profile/stats.svg" alt="GitHub stats" />
-	<img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+	<img height="170" src="https://raw.githubusercontent.com/SamarthPD-21/SamarthPD-21/stats/stats.svg" alt="GitHub stats" />
+	<img height="170" src="https://raw.githubusercontent.com/SamarthPD-21/SamarthPD-21/stats/top-langs.svg" alt="Top languages" />
 </p>
 <p align="center">
-	<img src="./profile/streak.svg" alt="GitHub streak" />
+	<img src="https://raw.githubusercontent.com/SamarthPD-21/SamarthPD-21/stats/streak.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
